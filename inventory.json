@@ -1,7 +1,7 @@
 {
   "dealership": "Norden Volkswagen",
-  "generated_at": "2026-10-25T21:02:27",
-  "vehicle_count": 182,
+  "generated_at": "2026-10-25T21:12:42",
+  "vehicle_count": 181,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -54,18 +54,6 @@
       "condition": "new"
     },
     {
-      "name": "New 2026 Volkswagen Jetta **IN STOCK** COMFORTLINE | PYRITE SILVERin Edmonton",
-      "vin": "3VWEW7BUXTM072268",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/c8c49c5b99ba.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Volkswagen Jetta **IN STOCK** COMFORTLINE | PYRITE SILVERin Edmonton",
-      "vin": "3VWEW7BUXTM072268",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/b518b8e02877.html",
-      "condition": "new"
-    },
-    {
       "name": "New 2026 Volkswagen Jetta **IN STOCK** TRENDLINE | PYRITE SILVERin Edmonton",
       "vin": "3VWCW7BU1TM078967",
       "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/0c8295fa4588.html",
@@ -87,6 +75,18 @@
       "name": "New 2026 Volkswagen Jetta **IN STOCK** COMFORTLINE | ORYX WHITEin Edmonton",
       "vin": "3VWEW7BUXTM079429",
       "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/28103aa11ff5.html",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Volkswagen Jetta **IN STOCK** TRENDLINE | PLATINUM GREYin Edmonton",
+      "vin": "3VWCW7BU2TM080016",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/f0306e5ac48d.html",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Volkswagen Jetta **IN STOCK** TRENDLINE | PLATINUM GREYin Edmonton",
+      "vin": "3VWCW7BU2TM080016",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/7ea7ef4fa103.html",
       "condition": "new"
     },
     {
@@ -199,18 +199,6 @@
     },
     {
       "name": "New 2026 Volkswagen Tiguan **IN STOCK** TRENDLINE | DEEP PEARLin Edmonton",
-      "vin": "3VVBR7RM0TM145183",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/a0361f673bee.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Volkswagen Tiguan **IN STOCK** TRENDLINE | DEEP PEARLin Edmonton",
-      "vin": "3VVBR7RM0TM145183",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/187999adbc80.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Volkswagen Tiguan **IN STOCK** TRENDLINE | DEEP PEARLin Edmonton",
       "vin": "3VVBR7RM9TM145229",
       "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/a6e50488bfe0.html",
       "condition": "new"
@@ -243,6 +231,12 @@
       "name": "New 2026 Volkswagen Tiguan **IN STOCK** TRENDLINE | DEEP PEARLin Edmonton",
       "vin": "3VVBR7RM0TM152165",
       "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/e84b99b2544a.html",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Volkswagen GLI **IN STOCK** AUTOBAHN | SPORT PACKAGE | PLATINUM GREYin Edmonton",
+      "vin": "3VW2M7BU6VM011348",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/ab5df86b498f.html",
       "condition": "new"
     },
     {
