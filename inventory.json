@@ -1,7 +1,7 @@
 {
   "dealership": "Norden Volkswagen",
-  "generated_at": "2026-10-25T21:12:42",
-  "vehicle_count": 181,
+  "generated_at": "2026-10-26T05:56:35",
+  "vehicle_count": 179,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -807,17 +807,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Volkswagen Golf GTI ",
-      "vin": "3VW6T7AUXKM006302",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/b323d83db8fe.html",
-      "year": 2019,
-      "make": "Volkswagen",
-      "model": "Golf GTI",
-      "condition": "used",
-      "price": 27900.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2019 Volkswagen Golf SportWagen **VW CERTIFIED** HIGHLINE 4MOTIONin Edmonton",
       "vin": "3VW117AU0KM517498",
       "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/10c4ae674477.html",
@@ -858,7 +847,7 @@
       "make": "Volkswagen",
       "model": "Jetta **VW CERTIFIED** COMFORTLINE",
       "condition": "used",
-      "price": 19900.0,
+      "price": 19750.0,
       "price_currency": "CAD"
     },
     {
@@ -1098,7 +1087,7 @@
       "make": "Volkswagen",
       "model": "Atlas Cross Sport",
       "condition": "used",
-      "price": 30400.0,
+      "price": 29900.0,
       "price_currency": "CAD"
     },
     {
@@ -1109,7 +1098,7 @@
       "make": "Volkswagen",
       "model": "Tiguan **VW CERTIFIED** COMFORTLINE",
       "condition": "used",
-      "price": 18750.0,
+      "price": 18700.0,
       "price_currency": "CAD"
     },
     {
@@ -1131,7 +1120,7 @@
       "make": "Volkswagen",
       "model": "Tiguan",
       "condition": "used",
-      "price": 18750.0,
+      "price": 18700.0,
       "price_currency": "CAD"
     },
     {
@@ -1153,29 +1142,7 @@
       "make": "Chevrolet",
       "model": "Tahoe",
       "condition": "used",
-      "price": 67400.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Hyundai Elantra PREFERRED | IVTin Edmonton",
-      "vin": "KMHLM4AGXNU370596",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/925b8860626e.html",
-      "year": 2022,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "used",
-      "price": 16400.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Hyundai Elantra ",
-      "vin": "KMHLM4AGXNU370596",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/4ab6ea45210c.html",
-      "year": 2022,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "used",
-      "price": 16400.0,
+      "price": 65900.0,
       "price_currency": "CAD"
     },
     {
@@ -1197,7 +1164,7 @@
       "make": "Kia",
       "model": "Sportage",
       "condition": "used",
-      "price": 21250.0,
+      "price": 20750.0,
       "price_currency": "CAD"
     },
     {
@@ -1208,7 +1175,7 @@
       "make": "Volkswagen",
       "model": "Atlas",
       "condition": "used",
-      "price": 32700.0,
+      "price": 32400.0,
       "price_currency": "CAD"
     },
     {
@@ -1235,24 +1202,24 @@
     },
     {
       "name": "2022 Volkswagen Taos ",
-      "vin": "3VVAX7B24NM052390",
+      "vin": "3VVCX7B20NM041038",
       "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/f0c601313295.html",
       "year": 2022,
       "make": "Volkswagen",
       "model": "Taos",
       "condition": "used",
-      "price": 19400.0,
+      "price": 20500.0,
       "price_currency": "CAD"
     },
     {
       "name": "2022 Volkswagen Tiguan ",
-      "vin": "3VV2B7AX3NM123417",
+      "vin": "3VV2B7AX8NM096912",
       "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/c2ebb2927dc5.html",
       "year": 2022,
       "make": "Volkswagen",
       "model": "Tiguan",
       "condition": "used",
-      "price": 24850.0,
+      "price": 24800.0,
       "price_currency": "CAD"
     },
     {
@@ -1263,7 +1230,7 @@
       "make": "Audi",
       "model": "Q5",
       "condition": "used",
-      "price": 33800.0,
+      "price": 32900.0,
       "price_currency": "CAD"
     },
     {
@@ -1274,7 +1241,7 @@
       "make": "Audi",
       "model": "SQ5",
       "condition": "used",
-      "price": 43700.0,
+      "price": 43400.0,
       "price_currency": "CAD"
     },
     {
@@ -1296,7 +1263,7 @@
       "make": "Chevrolet",
       "model": "Traverse",
       "condition": "used",
-      "price": 36250.0,
+      "price": 35900.0,
       "price_currency": "CAD"
     },
     {
@@ -1340,7 +1307,7 @@
       "make": "Volkswagen",
       "model": "Atlas Cross Sport",
       "condition": "used",
-      "price": 34900.0,
+      "price": 34700.0,
       "price_currency": "CAD"
     },
     {
@@ -1374,6 +1341,17 @@
       "model": "Tahoe",
       "condition": "used",
       "price": 73900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Chevrolet Trax 2RSin Edmonton",
+      "vin": "KL77LJE24RC010402",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/6949465b3eda.html",
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Trax",
+      "condition": "used",
+      "price": 23750.0,
       "price_currency": "CAD"
     },
     {
@@ -1428,7 +1406,7 @@
       "make": "Mazda",
       "model": "CX-50",
       "condition": "used",
-      "price": 38900.0,
+      "price": 37400.0,
       "price_currency": "CAD"
     },
     {
@@ -1635,7 +1613,7 @@
       "make": "Honda",
       "model": "Passport",
       "condition": "used",
-      "price": 59900.0,
+      "price": 59400.0,
       "price_currency": "CAD"
     },
     {
