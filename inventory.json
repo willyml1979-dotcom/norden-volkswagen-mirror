@@ -1,7 +1,7 @@
 {
   "dealership": "Norden Volkswagen",
-  "generated_at": "2026-11-17T03:34:18",
-  "vehicle_count": 178,
+  "generated_at": "2026-11-17T03:51:17",
+  "vehicle_count": 170,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -1284,96 +1284,6 @@
       "condition": "new"
     },
     {
-      "name": "New 2026 Volkswagen Jetta **IN STOCK** TRENDLINE | PYRITE SILVER | DEMOin Edmonton",
-      "vin": "3VWCW7BU8TM068355",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/406a689b4710.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Jetta **IN STOCK** TRENDLINE",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Volkswagen Jetta **IN STOCK** TRENDLINE | PYRITE SILVER | DEMOin Edmonton",
-      "vin": "3VWCW7BU8TM068355",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/fafbfcf0735f.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Jetta **IN STOCK** TRENDLINE",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Volkswagen Jetta **IN STOCK** TRENDLINE | PURE WHITEin Edmonton",
-      "vin": "3VWCW7BU3TM067209",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/1b0fb8eafff4.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Jetta **IN STOCK** TRENDLINE",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Volkswagen Jetta **IN STOCK** TRENDLINE | PURE WHITEin Edmonton",
-      "vin": "3VWCW7BU3TM067209",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/c82e7d09246f.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Jetta **IN STOCK** TRENDLINE",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Volkswagen Jetta **IN STOCK** COMFORTLINE | DEEP PEARLin Edmonton",
-      "vin": "3VWEW7BU5TM072131",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/bba6cbbb62f1.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Jetta **IN STOCK** COMFORTLINE",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Volkswagen Jetta **IN STOCK** COMFORTLINE | DEEP PEARLin Edmonton",
-      "vin": "3VWEW7BU5TM072131",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/47a06e6ba98b.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Jetta **IN STOCK** COMFORTLINE",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Volkswagen Jetta **IN STOCK** TRENDLINE | PYRITE SILVERin Edmonton",
-      "vin": "3VWCW7BU1TM078967",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/0c8295fa4588.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Jetta **IN STOCK** TRENDLINE",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Volkswagen Jetta **IN STOCK** TRENDLINE | PYRITE SILVERin Edmonton",
-      "vin": "3VWCW7BU1TM078967",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/11649ec00c95.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Jetta **IN STOCK** TRENDLINE",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Volkswagen Jetta **IN STOCK** COMFORTLINE | ORYX WHITEin Edmonton",
-      "vin": "3VWEW7BUXTM079429",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/458bcbfc4d85.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Jetta **IN STOCK** COMFORTLINE",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Volkswagen Jetta **IN STOCK** COMFORTLINE | ORYX WHITEin Edmonton",
-      "vin": "3VWEW7BUXTM079429",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/28103aa11ff5.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Jetta **IN STOCK** COMFORTLINE",
-      "condition": "new"
-    },
-    {
       "name": "New 2026 Volkswagen Jetta **IN STOCK** TRENDLINE | PLATINUM GREYin Edmonton",
       "vin": "3VWCW7BU2TM080016",
       "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/f0306e5ac48d.html",
@@ -1482,24 +1392,6 @@
       "condition": "new"
     },
     {
-      "name": "New 2026 Volkswagen Taos **IN STOCK** COMFORTLINE | PURE WHITEin Edmonton",
-      "vin": "3VVUC7B28TM063110",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/7e6b6a8d0e8d.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Taos **IN STOCK** COMFORTLINE",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Volkswagen Taos **IN STOCK** COMFORTLINE | PURE WHITEin Edmonton",
-      "vin": "3VVUC7B28TM063110",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/896cad580cdd.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Taos **IN STOCK** COMFORTLINE",
-      "condition": "new"
-    },
-    {
       "name": "New 2026 Volkswagen Tiguan **IN STOCK** TRENDLINE 4MOTION | PURE WHITEin Edmonton",
       "vin": "3VVBR7RM0TM023374",
       "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/27672380d919.html",
@@ -1569,51 +1461,6 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Tiguan **IN STOCK** TRENDLINE",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Volkswagen Tiguan **IN STOCK** TRENDLINE | DEEP PEARLin Edmonton",
-      "vin": "3VVBR7RM0TM145281",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/e4fbc5c64918.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Tiguan **IN STOCK** TRENDLINE",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Volkswagen Tiguan **IN STOCK** TRENDLINE | DEEP PEARLin Edmonton",
-      "vin": "3VVBR7RM0TM145281",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/f97c187212c4.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Tiguan **IN STOCK** TRENDLINE",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Volkswagen Tiguan **IN STOCK** TRENDLINE | DEEP PEARLin Edmonton",
-      "vin": "3VVBR7RM0TM152165",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/6e1b45dc5439.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Tiguan **IN STOCK** TRENDLINE",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Volkswagen Tiguan **IN STOCK** TRENDLINE | DEEP PEARLin Edmonton",
-      "vin": "3VVBR7RM0TM152165",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/e84b99b2544a.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Tiguan **IN STOCK** TRENDLINE",
-      "condition": "new"
-    },
-    {
-      "name": "New 2027 Volkswagen GLI **IN STOCK** AUTOBAHN | SPORT PACKAGE | PLATINUM GREYin Edmonton",
-      "vin": "3VW2M7BU6VM011348",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/ab5df86b498f.html",
-      "year": 2027,
-      "make": "Volkswagen",
-      "model": "GLI **IN STOCK** AUTOBAHN",
       "condition": "new"
     },
     {
@@ -1707,21 +1554,39 @@
       "condition": "new"
     },
     {
-      "name": "New 2027 Volkswagen Jetta COMFORTLINE | SPORT PKG | DEEP PEARLin Edmonton",
+      "name": "New 2027 Volkswagen Jetta **IN STOCK** COMFORTLINE | SPORT PKG | DEEP PEARLin Edmonton",
       "vin": "3VWSW7BU5VM024019",
       "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/9264a3f77a17.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Jetta **IN STOCK** COMFORTLINE",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Volkswagen Jetta COMFORTLINE | SPORT PKG | ALPINE GREYin Edmonton",
+      "vin": "3VWSW7BU2VM026150",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/ca2d696d526a.html",
       "year": 2027,
       "make": "Volkswagen",
       "model": "Jetta",
       "condition": "new"
     },
     {
-      "name": "New 2027 Volkswagen Taos **IN STOCK** COMFORTLINE | PYRITE SILVERin Edmonton",
-      "vin": "3VVUD7B2XVM012658",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/9b9634c26da1.html",
+      "name": "New 2027 Volkswagen Jetta COMFORTLINE | SPORT PKG | ALPINE GREYin Edmonton",
+      "vin": "3VWEW7BU9VM027194",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/3abb3884effe.html",
       "year": 2027,
       "make": "Volkswagen",
-      "model": "Taos **IN STOCK** COMFORTLINE",
+      "model": "Jetta",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Volkswagen Jetta COMFORTLINE | PLATINUM GREYin Edmonton",
+      "vin": "3VWEW7BU3VM028292",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/416d06ec0462.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Jetta",
       "condition": "new"
     },
     {
@@ -1734,12 +1599,12 @@
       "condition": "new"
     },
     {
-      "name": "New 2027 Volkswagen Taos COMFORTLINE | PLATINUM GREYin Edmonton",
+      "name": "New 2027 Volkswagen Taos **IN STOCK** COMFORTLINE | PLATINUM GREYin Edmonton",
       "vin": "3VVUD7B24VM030282",
       "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/0f0d3cdfa36d.html",
       "year": 2027,
       "make": "Volkswagen",
-      "model": "Taos",
+      "model": "Taos **IN STOCK** COMFORTLINE",
       "condition": "new"
     },
     {
@@ -1755,6 +1620,69 @@
       "name": "New 2027 Volkswagen Taos COMFORTLINE | DEEP PEARLin Edmonton",
       "vin": "3VVUD7B29VM030732",
       "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/f173757bed70.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Volkswagen Taos **IN STOCK** COMFORTLINE | MONTEREY BLUEin Edmonton",
+      "vin": "3VVUD7B22VM032158",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/67c1bca18500.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Taos **IN STOCK** COMFORTLINE",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Volkswagen Taos **IN STOCK** COMFORTLINE | DEEP PEARLin Edmonton",
+      "vin": "3VVUD7B20VM031929",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/815113183efd.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Taos **IN STOCK** COMFORTLINE",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Volkswagen Taos **IN STOCK** COMFORTLINE | CORNFLOWER BLUEin Edmonton",
+      "vin": "3VVUD7B20VM032109",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/2ea3b2947dfa.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Taos **IN STOCK** COMFORTLINE",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Volkswagen Taos COMFORTLINE | PLATINUM GREYin Edmonton",
+      "vin": "3VVUD7B27VM032933",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/4d0c1df84d49.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Volkswagen Taos COMFORTLINE | DEEP PEARLin Edmonton",
+      "vin": "3VVUD7B23VM032511",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/e66e71276b53.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Volkswagen Taos COMFORTLINE | PURE WHITEin Edmonton",
+      "vin": "3VVUD7B22VM032869",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/48ab33340602.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Volkswagen Taos COMFORTLINE | PYRIT SILVERin Edmonton",
+      "vin": "3VVUD7B29VM032089",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/3f2c63ae4f52.html",
       "year": 2027,
       "make": "Volkswagen",
       "model": "Taos",
