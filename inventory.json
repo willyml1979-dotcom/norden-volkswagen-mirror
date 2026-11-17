@@ -1,360 +1,262 @@
 {
   "dealership": "Norden Volkswagen",
-  "generated_at": "2026-10-26T06:03:50",
-  "vehicle_count": 179,
+  "generated_at": "2026-11-17T03:34:18",
+  "vehicle_count": 178,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
     {
-      "name": "New 2026 Volkswagen Jetta **IN STOCK** TRENDLINE | PYRITE SILVERin Edmonton",
-      "vin": "3VWCW7BU7TM007482",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/7d7359708e26.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Volkswagen Jetta **IN STOCK** TRENDLINE | PYRITE SILVERin Edmonton",
-      "vin": "3VWCW7BU7TM007482",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/0dcdbe6fdc03.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Volkswagen Jetta **IN STOCK** TRENDLINE | PYRITE SILVER | DEMOin Edmonton",
-      "vin": "3VWCW7BU8TM068355",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/406a689b4710.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Volkswagen Jetta **IN STOCK** TRENDLINE | PYRITE SILVER | DEMOin Edmonton",
-      "vin": "3VWCW7BU8TM068355",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/fafbfcf0735f.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Volkswagen Jetta **IN STOCK** TRENDLINE | PURE WHITEin Edmonton",
-      "vin": "3VWCW7BU3TM067209",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/1b0fb8eafff4.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Volkswagen Jetta **IN STOCK** TRENDLINE | PURE WHITEin Edmonton",
-      "vin": "3VWCW7BU3TM067209",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/c82e7d09246f.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Volkswagen Jetta **IN STOCK** COMFORTLINE | DEEP PEARLin Edmonton",
-      "vin": "3VWEW7BU5TM072131",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/bba6cbbb62f1.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Volkswagen Jetta **IN STOCK** COMFORTLINE | DEEP PEARLin Edmonton",
-      "vin": "3VWEW7BU5TM072131",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/47a06e6ba98b.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Volkswagen Jetta **IN STOCK** TRENDLINE | PYRITE SILVERin Edmonton",
-      "vin": "3VWCW7BU1TM078967",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/0c8295fa4588.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Volkswagen Jetta **IN STOCK** TRENDLINE | PYRITE SILVERin Edmonton",
-      "vin": "3VWCW7BU1TM078967",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/11649ec00c95.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Volkswagen Jetta **IN STOCK** COMFORTLINE | ORYX WHITEin Edmonton",
-      "vin": "3VWEW7BUXTM079429",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/458bcbfc4d85.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Volkswagen Jetta **IN STOCK** COMFORTLINE | ORYX WHITEin Edmonton",
-      "vin": "3VWEW7BUXTM079429",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/28103aa11ff5.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Volkswagen Jetta **IN STOCK** TRENDLINE | PLATINUM GREYin Edmonton",
-      "vin": "3VWCW7BU2TM080016",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/f0306e5ac48d.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Volkswagen Jetta **IN STOCK** TRENDLINE | PLATINUM GREYin Edmonton",
-      "vin": "3VWCW7BU2TM080016",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/7ea7ef4fa103.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Volkswagen Jetta **IN STOCK** TRENDLINE | PLATINUM GREYin Edmonton",
-      "vin": "3VWCW7BU8TM080053",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/07a8a694e6d0.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Volkswagen Jetta **IN STOCK** TRENDLINE | PLATINUM GREYin Edmonton",
-      "vin": "3VWCW7BU8TM080053",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/b119ef3e162c.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Volkswagen Jetta **IN STOCK** TRENDLINE | PLATINUM GREYin Edmonton",
-      "vin": "3VWCW7BU6TM080293",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/993be1b6e224.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Volkswagen Jetta **IN STOCK** TRENDLINE | PLATINUM GREYin Edmonton",
-      "vin": "3VWCW7BU6TM080293",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/2b0333640d03.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Volkswagen Jetta **IN STOCK** TRENDLINE | PLATINUM GREYin Edmonton",
-      "vin": "3VWCW7BU9TM080353",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/95e33cf4b64f.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Volkswagen Jetta **IN STOCK** TRENDLINE | PLATINUM GREYin Edmonton",
-      "vin": "3VWCW7BU9TM080353",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/4fea9f56d6f0.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Volkswagen Jetta **IN STOCK** TRENDLINE | PLATINUM GREYin Edmonton",
-      "vin": "3VWCW7BU3TM080610",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/c0ebff744d07.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Volkswagen Jetta **IN STOCK** TRENDLINE | PLATINUM GREYin Edmonton",
-      "vin": "3VWCW7BU3TM080610",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/b1508826bb0d.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Volkswagen Jetta **IN STOCK** TRENDLINE | PLATINUM GREYin Edmonton",
-      "vin": "3VWCW7BU8TM080599",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/f06b1a883b56.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Volkswagen Jetta **IN STOCK** TRENDLINE | PLATINUM GREYin Edmonton",
-      "vin": "3VWCW7BU8TM080599",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/5a64105bde76.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Volkswagen Taos **IN STOCK** COMFORTLINE | PURE WHITEin Edmonton",
-      "vin": "3VVUC7B28TM063110",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/7e6b6a8d0e8d.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Volkswagen Taos **IN STOCK** COMFORTLINE | PURE WHITEin Edmonton",
-      "vin": "3VVUC7B28TM063110",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/896cad580cdd.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Volkswagen Tiguan **IN STOCK** TRENDLINE 4MOTION | PURE WHITEin Edmonton",
-      "vin": "3VVBR7RM0TM023374",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/27672380d919.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Volkswagen Tiguan **IN STOCK** TRENDLINE 4MOTION | PURE WHITEin Edmonton",
-      "vin": "3VVBR7RM0TM023374",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/41aca2cf37ee.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Volkswagen Tiguan **IN STOCK** TRENDLINE | DEEP PEARL | DEMOin Edmonton",
-      "vin": "3VVBR7RM5TM081433",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/95bcbd46f606.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Volkswagen Tiguan **IN STOCK** TRENDLINE | DEEP PEARL | DEMOin Edmonton",
-      "vin": "3VVBR7RM5TM081433",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/ce9f32af3308.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Volkswagen Tiguan **IN STOCK** TRENDLINE | PURE WHITEin Edmonton",
-      "vin": "3VVBR7RM5TM092447",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/62f7dfc14ec9.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Volkswagen Tiguan **IN STOCK** TRENDLINE | PURE WHITEin Edmonton",
-      "vin": "3VVBR7RM5TM092447",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/70ca757fb9a6.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Volkswagen Tiguan **IN STOCK** TRENDLINE | DEEP PEARLin Edmonton",
-      "vin": "3VVBR7RM9TM145229",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/a6e50488bfe0.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Volkswagen Tiguan **IN STOCK** TRENDLINE | DEEP PEARLin Edmonton",
-      "vin": "3VVBR7RM9TM145229",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/db955710ab33.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Volkswagen Tiguan **IN STOCK** TRENDLINE | DEEP PEARLin Edmonton",
-      "vin": "3VVBR7RM0TM145281",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/e4fbc5c64918.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Volkswagen Tiguan **IN STOCK** TRENDLINE | DEEP PEARLin Edmonton",
-      "vin": "3VVBR7RM0TM145281",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/f97c187212c4.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Volkswagen Tiguan **IN STOCK** TRENDLINE | DEEP PEARLin Edmonton",
-      "vin": "3VVBR7RM0TM152165",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/6e1b45dc5439.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Volkswagen Tiguan **IN STOCK** TRENDLINE | DEEP PEARLin Edmonton",
-      "vin": "3VVBR7RM0TM152165",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/e84b99b2544a.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2027 Volkswagen GLI **IN STOCK** AUTOBAHN | SPORT PACKAGE | PLATINUM GREYin Edmonton",
-      "vin": "3VW2M7BU6VM011348",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/ab5df86b498f.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2027 Volkswagen Jetta **IN STOCK** COMFORTLINE | SPORT PKG | PLATINUM GREYin Edmonton",
-      "vin": "3VWSW7BU1VM000414",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/e5580bbd8239.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2027 Volkswagen Jetta **IN STOCK** COMFORTLINE | SPORT PKG | DEEP PEARLin Edmonton",
-      "vin": "3VWSW7BU5VM001324",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/47a21f601075.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2027 Volkswagen Jetta **IN STOCK** COMFORTLINE | SPORT PKG | PLATINUM GREYin Edmonton",
-      "vin": "3VWSW7BU2VM001426",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/0f6b34b3a9f5.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2027 Volkswagen Jetta **IN STOCK** COMFORTLINE | SPORT PKG | PYRITE SILVERin Edmonton",
-      "vin": "3VWSW7BU6VM002417",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/635fa78bec31.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2027 Volkswagen Jetta **IN STOCK** COMFORTLINE | SPORT PKG | ALPINE GREYin Edmonton",
-      "vin": "3VWSW7BU3VM004948",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/c67d5c335357.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2027 Volkswagen Jetta **IN STOCK** COMFORTLINE | SPORT PKG | ALPINE GREYin Edmonton",
-      "vin": "3VWSW7BU7VM008873",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/06c1077da1ac.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2027 Volkswagen Jetta **IN STOCK** COMFORTLINE | SPORT PKG | DEEP BLACK PEARLin Edmonton",
-      "vin": "3VWSW7BU3VM009146",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/ef31d8a5f552.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2027 Volkswagen Jetta **IN STOCK** COMFORTLINE | SPORT PKG | ORYX WHITEin Edmonton",
-      "vin": "3VWSW7BU6VM007441",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/cd5a87cfae22.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2027 Volkswagen Jetta **IN STOCK** COMFORTLINE | SPORT PKG | ALPINE GREYin Edmonton",
-      "vin": "3VWSW7BU3VM015707",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/d5738d9e8f7f.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2027 Volkswagen Jetta **IN STOCK** COMFORTLINE | SPORT PKG | ALPINE GREYin Edmonton",
-      "vin": "3VWSW7BU3VM018221",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/bfd0f31b41fd.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2027 Volkswagen Jetta COMFORTLINE | SPORT PKG | DEEP PEARLin Edmonton",
-      "vin": "3VWSW7BU5VM024019",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/9264a3f77a17.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2027 Volkswagen Taos **IN STOCK** COMFORTLINE | PYRITE SILVERin Edmonton",
-      "vin": "3VVUD7B2XVM012658",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/9b9634c26da1.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2027 Volkswagen Taos COMFORTLINE | PLATINUM GREYin Edmonton",
-      "vin": "3VVUD7B27VM023178",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/5732d2513e02.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2027 Volkswagen Taos COMFORTLINE | PLATINUM GREYin Edmonton",
-      "vin": "3VVUD7B24VM030282",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/0f0d3cdfa36d.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2027 Volkswagen Taos COMFORTLINE | PYRITE SILVERin Edmonton",
-      "vin": "3VVUD7B27VM029787",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/02db738289a0.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2027 Volkswagen Taos COMFORTLINE | DEEP PEARLin Edmonton",
-      "vin": "3VVUD7B29VM030732",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/f173757bed70.html",
-      "condition": "new"
-    },
-    {
-      "name": "2012 Toyota Sienna LE | AWD | 3.5Lin Edmonton",
-      "vin": "5TDJK3DC0CS040603",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/10b979670e53.html",
-      "year": 2012,
-      "make": "Toyota",
-      "model": "Sienna",
+      "name": "Nissan Titan 2011 for salein Edmonton",
+      "vin": "1N6AA0EC4BN307579",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/050728109e4e.html",
       "condition": "used",
-      "price": 13900.0,
+      "price": 14800.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2012 Toyota Sienna ",
-      "vin": "5TDJK3DC0CS040603",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/a47ccad1d66d.html",
-      "year": 2012,
-      "make": "Toyota",
-      "model": "Sienna",
+      "name": "Chevrolet Cruze 2015 for salein Edmonton",
+      "vin": "1G1PC5SBXF7186365",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/5ff3ca53549c.html",
       "condition": "used",
-      "price": 13900.0,
+      "price": 11400.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Golf 2015 for salein Edmonton",
+      "vin": "3VWC17AU6FM509677",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/394651d17cfa.html",
+      "condition": "used",
+      "price": 15900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Honda Pilot 2016 for salein Edmonton",
+      "vin": "5FNYF6H85GB504411",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/d3cf3ad92ce9.html",
+      "condition": "used",
+      "price": 18900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Audi RS 5 2018 for salein Edmonton",
+      "vin": "WUARWAF52JA904929",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/62a9e81dac9a.html",
+      "condition": "used",
+      "price": 49800.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "GMC Sierra 1500 2018 for salein Edmonton",
+      "vin": "3GTU2NECXJG131493",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/8a97a6e7f1ff.html",
+      "condition": "used",
+      "price": 38900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jaguar F-PACE 2018 for salein Edmonton",
+      "vin": "SADCL2FXXJA276321",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/fbcf76f70489.html",
+      "condition": "used",
+      "price": 17900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Lexus RX 2018 for salein Edmonton",
+      "vin": "2T2BZMCA2JC137454",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/0fe54f81eda8.html",
+      "condition": "used",
+      "price": 31900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Nissan Pathfinder 2018 for salein Edmonton",
+      "vin": "5N1DR2MM3JC639064",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/51bc84e62174.html",
+      "condition": "used",
+      "price": 19900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Toyota RAV4 2018 for salein Edmonton",
+      "vin": "2T3BFREV8JW701477",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/2b136fbf3e84.html",
+      "condition": "used",
+      "price": 29900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volvo S60 2019 for salein Edmonton",
+      "vin": "7JRA22TL8KG003076",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/15272762bb83.html",
+      "condition": "used",
+      "price": 28900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Grand Cherokee 2021 for salein Edmonton",
+      "vin": "1C4RJFBG6MC755286",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/76d4626584c4.html",
+      "condition": "used",
+      "price": 26900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Kia Forte 2022 for salein Edmonton",
+      "vin": "3KPF34AD7NE457560",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/f1f2ee95e955.html",
+      "condition": "used",
+      "price": 19900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Toyota RAV4 2022 for salein Edmonton",
+      "vin": "2T3J1RFV4NW323978",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/d3655986433b.html",
+      "condition": "used",
+      "price": 38900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Honda HR-V 2023 for salein Edmonton",
+      "vin": "3CZRZ2H7XPM101896",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/28918d405d04.html",
+      "condition": "used",
+      "price": 31900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Elantra 2023 for salein Edmonton",
+      "vin": "KMHLM4AG4PU413994",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/f29dd0d5c4ef.html",
+      "condition": "used",
+      "price": 16400.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Nissan Pathfinder 2023 for salein Edmonton",
+      "vin": "5N1DR3DF0PC270065",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/1b1725d6a52d.html",
+      "condition": "used",
+      "price": 35850.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Nissan Rogue 2023 for salein Edmonton",
+      "vin": "JN8BT3BB1PW186630",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/f8c8c158b101.html",
+      "condition": "used",
+      "price": 26900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Taos 2023 for salein Edmonton",
+      "vin": "3VV7X7B22PM306465",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/684bbfda2574.html",
+      "condition": "used",
+      "price": 23500.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Tiguan 2023 for salein Edmonton",
+      "vin": "3VV4B7AX5PM002626",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/50237fe01b25.html",
+      "condition": "used",
+      "price": 26900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Chevrolet Trax 2024 for salein Edmonton",
+      "vin": "KL77LJE24RC010402",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/91ed41787433.html",
+      "condition": "used",
+      "price": 23400.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "GMC Canyon 2024 for salein Edmonton",
+      "vin": "1GTP6BEKXR1236312",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/89716ea3f47f.html",
+      "condition": "used",
+      "price": 47900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Santa Fe 2024 for salein Edmonton",
+      "vin": "5NMP4DGL1RH009216",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/acefdeaa5fbd.html",
+      "condition": "used",
+      "price": 36350.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Tucson 2024 for salein Edmonton",
+      "vin": "KM8JBCDE1RU345593",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/12fd50338e5e.html",
+      "condition": "used",
+      "price": 29400.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda CX-90 MHEV 2024 for salein Edmonton",
+      "vin": "JM3KKDHD4R1139144",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/c4cbd09c8b88.html",
+      "condition": "used",
+      "price": 36400.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Toyota Camry 2024 for salein Edmonton",
+      "vin": "4T1G11AK6RU198182",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/1f4832cbda7e.html",
+      "condition": "used",
+      "price": 26700.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Atlas 2024 for salein Edmonton",
+      "vin": "1V2BR2CA5RC532207",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/e8fa78dce1f3.html",
+      "condition": "used",
+      "price": 35900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 3500 2025 for salein Edmonton",
+      "vin": "3C63R3CL1SG565924",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/5486fd907b2c.html",
+      "condition": "used",
+      "price": 72650.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen ID. Buzz 2025 for salein Edmonton",
+      "vin": "WVG6YVEB1SH045359",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/1b339b07f13c.html",
+      "condition": "used",
+      "price": 68900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2011 Mercedes-Benz M-Class ML 350in Edmonton",
+      "vin": "4JGBB8GB5BA678258",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/a7927a293aa9.html",
+      "year": 2011,
+      "make": "Mercedes-Benz",
+      "model": "M-Class ML 350in Edmonton",
+      "condition": "used",
+      "price": 11800.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2011 Nissan Titan SL | 4WD | CREW CAB | SWBin Edmonton",
+      "vin": "1N6AA0EC4BN307579",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/f98f63b24f69.html",
+      "year": 2011,
+      "make": "Nissan",
+      "model": "Titan",
+      "condition": "used",
+      "price": 14800.0,
       "price_currency": "CAD"
     },
     {
@@ -380,6 +282,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2015 Chevrolet Cruze 1LT | LOW KMS!in Edmonton",
+      "vin": "1G1PC5SBXF7186365",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/d5a735550b5b.html",
+      "year": 2015,
+      "make": "Chevrolet",
+      "model": "Cruze",
+      "condition": "used",
+      "price": 11400.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2015 Lexus RX 350 SPORT DESIGN | AWDin Edmonton",
       "vin": "2T2BK1BA1FC260738",
       "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/ed61028ebb1e.html",
@@ -402,25 +315,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2015 Volkswagen Tiguan HIGHLINE R-LINEin Edmonton",
-      "vin": "WVGJV7AX7FW114590",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/73ed054f1879.html",
+      "name": "2015 Volkswagen Golf **VW CERTIFIED** COMFORTLINEin Edmonton",
+      "vin": "3VWC17AU6FM509677",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/c4189678303a.html",
       "year": 2015,
       "make": "Volkswagen",
-      "model": "Tiguan",
+      "model": "Golf **VW CERTIFIED** COMFORTLINEin Edmonton",
       "condition": "used",
-      "price": 16900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2015 Volkswagen Tiguan ",
-      "vin": "WVGJV7AX7FW114590",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/786959817409.html",
-      "year": 2015,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "used",
-      "price": 16900.0,
+      "price": 15900.0,
       "price_currency": "CAD"
     },
     {
@@ -431,84 +333,18 @@
       "make": "Honda",
       "model": "Pilot",
       "condition": "used",
-      "price": 17900.0,
+      "price": 18900.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2016 Honda Pilot ",
-      "vin": "5FNYF6H85GB504411",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/d3cf3ad92ce9.html",
+      "name": "2016 Land Rover Range Rover Evoque HSE | HBin Edmonton",
+      "vin": "SALVR2BG0GH078722",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/1b7e8386e2f6.html",
       "year": 2016,
-      "make": "Honda",
-      "model": "Pilot",
+      "make": "Land",
+      "model": "Rover Range Rover Evoque HSE",
       "condition": "used",
-      "price": 17900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2016 Mazda CX-5 GT | AWD | LEATHER | NAVin Edmonton",
-      "vin": "JM3KE4DY8G0886054",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/b6ef9e25db56.html",
-      "year": 2016,
-      "make": "Mazda",
-      "model": "CX-5",
-      "condition": "used",
-      "price": 17400.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2016 Mazda CX-5 ",
-      "vin": "JM3KE4DY8G0886054",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/5c86d1eabd05.html",
-      "year": 2016,
-      "make": "Mazda",
-      "model": "CX-5",
-      "condition": "used",
-      "price": 17400.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2016 Volkswagen Touareg COMFORTLINE | TECH PACKAGEin Edmonton",
-      "vin": "WVGEF9BP7GD012034",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/e0fe3f19ae6f.html",
-      "year": 2016,
-      "make": "Volkswagen",
-      "model": "Touareg",
-      "condition": "used",
-      "price": 17800.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2016 Volkswagen Touareg ",
-      "vin": "WVGEF9BP7GD012034",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/bc12d1f3aca9.html",
-      "year": 2016,
-      "make": "Volkswagen",
-      "model": "Touareg",
-      "condition": "used",
-      "price": 17800.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 Kia Forte5 EXin Edmonton",
-      "vin": "KNAFX5A87H5722861",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/7b21f0d39d14.html",
-      "year": 2017,
-      "make": "Kia",
-      "model": "Forte5 EXin Edmonton",
-      "condition": "used",
-      "price": 11900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 Kia Forte5 ",
-      "vin": "KNAFX5A87H5722861",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/047c8bdfa703.html",
-      "year": 2017,
-      "make": "Kia",
-      "model": "Forte5",
-      "condition": "used",
-      "price": 11900.0,
+      "price": 16900.0,
       "price_currency": "CAD"
     },
     {
@@ -534,14 +370,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2017 Volkswagen Tiguan WOLFSBRUG EDITION | AWDin Edmonton",
-      "vin": "WVGNV7AX7HK017899",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/52ea0492f565.html",
+      "name": "2017 Volkswagen Tiguan **VW CERTIFIED** WOLFSBURG EDITIONin Edmonton",
+      "vin": "WVGNV7AX2HW503075",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/793cca10fe7d.html",
       "year": 2017,
       "make": "Volkswagen",
-      "model": "Tiguan",
+      "model": "Tiguan **VW CERTIFIED** WOLFSBURG EDITIONin Edmonton",
       "condition": "used",
-      "price": 11900.0,
+      "price": 15900.0,
       "price_currency": "CAD"
     },
     {
@@ -607,7 +443,7 @@
       "make": "Ford",
       "model": "Escape",
       "condition": "used",
-      "price": 15900.0,
+      "price": 14900.0,
       "price_currency": "CAD"
     },
     {
@@ -619,17 +455,6 @@
       "model": "Escape",
       "condition": "used",
       "price": 15900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Ford F-150 ",
-      "vin": "1FTFW1E19JFE70154",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/10962d5eef5e.html",
-      "year": 2018,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "used",
-      "price": 33900.0,
       "price_currency": "CAD"
     },
     {
@@ -677,25 +502,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Nissan Rogue S | AWDin Edmonton",
-      "vin": "5N1AT2MV0JC724554",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/33d80bda908b.html",
+      "name": "2018 Jaguar F-PACE R- SPORT | AWD | 2 TIRE SETSin Edmonton",
+      "vin": "SADCL2FXXJA276321",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/2bb08926c5a7.html",
       "year": 2018,
-      "make": "Nissan",
-      "model": "Rogue",
+      "make": "Jaguar",
+      "model": "F-PACE R- SPORT",
       "condition": "used",
-      "price": 15400.0,
+      "price": 17900.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Nissan Rogue ",
-      "vin": "5N1AT2MV0JC724554",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/82fba57a4c23.html",
+      "name": "2018 Nissan Pathfinder PLATINUM | AWDin Edmonton",
+      "vin": "5N1DR2MM3JC639064",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/61137fafb598.html",
       "year": 2018,
       "make": "Nissan",
-      "model": "Rogue",
+      "model": "Pathfinder",
       "condition": "used",
-      "price": 15400.0,
+      "price": 19900.0,
       "price_currency": "CAD"
     },
     {
@@ -807,39 +632,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Volkswagen Golf SportWagen **VW CERTIFIED** HIGHLINE 4MOTIONin Edmonton",
-      "vin": "3VW117AU0KM517498",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/10c4ae674477.html",
-      "year": 2019,
-      "make": "Volkswagen",
-      "model": "Golf SportWagen **VW CERTIFIED** HIGHLINE 4MOTIONin Edmonton",
-      "condition": "used",
-      "price": 21750.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Volkswagen Golf SportWagen ",
-      "vin": "3VW117AU0KM517498",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/961f7ba7813e.html",
-      "year": 2019,
-      "make": "Volkswagen",
-      "model": "Golf SportWagen",
-      "condition": "used",
-      "price": 21750.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Volkswagen Jetta GLI | DSG | DRIVER ASSIST PKGin Edmonton",
-      "vin": "3VW6T7BU5KM198825",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/2411143018e0.html",
-      "year": 2019,
-      "make": "Volkswagen",
-      "model": "Jetta GLI",
-      "condition": "used",
-      "price": 15900.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2019 Volkswagen Jetta **VW CERTIFIED** COMFORTLINE | 6-SPD M/Tin Edmonton",
       "vin": "3VWN57BU1KM119883",
       "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/58d994c1fcc3.html",
@@ -873,17 +665,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Chevrolet Silverado 1500 ",
-      "vin": "1GCUYEED6LZ128293",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/7979793b4868.html",
-      "year": 2020,
-      "make": "Chevrolet",
-      "model": "Silverado 1500",
-      "condition": "used",
-      "price": 31900.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2020 Honda Civic Sedan LX | COUPEin Edmonton",
       "vin": "2HGFC2F50LH030326",
       "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/c853c97de0a1.html",
@@ -913,7 +694,7 @@
       "make": "Hyundai",
       "model": "Kona",
       "condition": "used",
-      "price": 20900.0,
+      "price": 19500.0,
       "price_currency": "CAD"
     },
     {
@@ -950,6 +731,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2020 Subaru WRX SPORT | 6-SPD M/Tin Edmonton",
+      "vin": "JF1VA1D60L9804960",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/a4d5b1b31c7d.html",
+      "year": 2020,
+      "make": "Subaru",
+      "model": "WRX",
+      "condition": "used",
+      "price": 22800.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2020 Subaru WRX ",
       "vin": "JF1VA1D60L9804960",
       "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/838ed1f734db.html",
@@ -983,17 +775,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Volkswagen Tiguan **VW CERTIFIED** COMFORTLINEin Edmonton",
-      "vin": "3VV2B7AX3LM098967",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/ebff71341541.html",
-      "year": 2020,
-      "make": "Volkswagen",
-      "model": "Tiguan **VW CERTIFIED** COMFORTLINEin Edmonton",
-      "condition": "used",
-      "price": 18900.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2020 Volkswagen Tiguan ",
       "vin": "3VV2B7AX3LM098967",
       "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/27be3fce45e9.html",
@@ -1013,17 +794,6 @@
       "model": "2 Series",
       "condition": "used",
       "price": 24900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Chevrolet Traverse ",
-      "vin": "1GNEVKKW7MJ254199",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/bb91caa50f7b.html",
-      "year": 2021,
-      "make": "Chevrolet",
-      "model": "Traverse",
-      "condition": "used",
-      "price": 32250.0,
       "price_currency": "CAD"
     },
     {
@@ -1066,6 +836,17 @@
       "model": "Palisade",
       "condition": "used",
       "price": 31400.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2021 Mazda CX-3 GT | AWDin Edmonton",
+      "vin": "JM1DKFD78M1505760",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/05f07407c606.html",
+      "year": 2021,
+      "make": "Mazda",
+      "model": "CX-3",
+      "condition": "used",
+      "price": 22900.0,
       "price_currency": "CAD"
     },
     {
@@ -1146,25 +927,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Kia Sportage EX Sin Edmonton",
-      "vin": "KNDPNCAC7N7016950",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/1bedadd26453.html",
+      "name": "2022 Kia Forte GT-Linein Edmonton",
+      "vin": "3KPF34AD7NE457560",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/9ae377a1027c.html",
       "year": 2022,
       "make": "Kia",
-      "model": "Sportage",
+      "model": "Forte",
       "condition": "used",
-      "price": 21250.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Kia Sportage ",
-      "vin": "KNDPNCAC7N7016950",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/eab23293692b.html",
-      "year": 2022,
-      "make": "Kia",
-      "model": "Sportage",
-      "condition": "used",
-      "price": 20750.0,
+      "price": 19900.0,
       "price_currency": "CAD"
     },
     {
@@ -1186,7 +956,7 @@
       "make": "Volkswagen",
       "model": "Taos **VW CERTIFIED** COMFORTLINE",
       "condition": "used",
-      "price": 21900.0,
+      "price": 20900.0,
       "price_currency": "CAD"
     },
     {
@@ -1245,6 +1015,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2023 Chevrolet Equinox LT | +WINTER TIRES!in Edmonton",
+      "vin": "3GNAXKEG8PS215170",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/1df5287d4c1a.html",
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "condition": "used",
+      "price": 21900.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2023 Chevrolet Equinox ",
       "vin": "3GNAXKEG8PS215170",
       "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/ec27f88fdeae.html",
@@ -1256,17 +1037,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Chevrolet Traverse ",
-      "vin": "1GNEVJKW1PJ336878",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/76b21c585979.html",
-      "year": 2023,
-      "make": "Chevrolet",
-      "model": "Traverse",
-      "condition": "used",
-      "price": 35900.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Hyundai Elantra PREFERREDin Edmonton",
       "vin": "KMHLM4AG4PU413994",
       "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/d1fa0ab3fec1.html",
@@ -1274,29 +1044,7 @@
       "make": "Hyundai",
       "model": "Elantra",
       "condition": "used",
-      "price": 17250.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Hyundai Elantra ",
-      "vin": "KMHLM4AG4PU413994",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/f29dd0d5c4ef.html",
-      "year": 2023,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "used",
-      "price": 17250.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Nissan Pathfinder ",
-      "vin": "5N1DR3DF0PC270065",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/1b1725d6a52d.html",
-      "year": 2023,
-      "make": "Nissan",
-      "model": "Pathfinder",
-      "condition": "used",
-      "price": 37250.0,
+      "price": 16400.0,
       "price_currency": "CAD"
     },
     {
@@ -1311,28 +1059,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Volkswagen Taos ",
-      "vin": "3VV7X7B22PM306465",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/684bbfda2574.html",
-      "year": 2023,
-      "make": "Volkswagen",
-      "model": "Taos",
-      "condition": "used",
-      "price": 24650.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Volkswagen Tiguan ",
-      "vin": "3VV4B7AX5PM002626",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/50237fe01b25.html",
-      "year": 2023,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "used",
-      "price": 28750.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Chevrolet Tahoe ",
       "vin": "1GNSKNKT5RR157840",
       "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/007c50971e3e.html",
@@ -1341,94 +1067,6 @@
       "model": "Tahoe",
       "condition": "used",
       "price": 73900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Chevrolet Trax 2RSin Edmonton",
-      "vin": "KL77LJE24RC010402",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/6949465b3eda.html",
-      "year": 2024,
-      "make": "Chevrolet",
-      "model": "Trax",
-      "condition": "used",
-      "price": 23750.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Chevrolet Trax ",
-      "vin": "KL77LJE24RC010402",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/91ed41787433.html",
-      "year": 2024,
-      "make": "Chevrolet",
-      "model": "Trax",
-      "condition": "used",
-      "price": 23900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Hyundai Santa Fe ",
-      "vin": "5NMP4DGL1RH009216",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/acefdeaa5fbd.html",
-      "year": 2024,
-      "make": "Hyundai",
-      "model": "Santa Fe",
-      "condition": "used",
-      "price": 37850.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Hyundai Tucson ",
-      "vin": "KM8JBCDE1RU345593",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/12fd50338e5e.html",
-      "year": 2024,
-      "make": "Hyundai",
-      "model": "Tucson",
-      "condition": "used",
-      "price": 29900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Jaguar F-PACE ",
-      "vin": "SADCZ2EE0RA733213",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/5fa1dd5973ec.html",
-      "year": 2024,
-      "make": "Jaguar",
-      "model": "F-PACE",
-      "condition": "used",
-      "price": 74700.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Mazda CX-50 ",
-      "vin": "7MMVABDYXRN191957",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/09e93d6cde3c.html",
-      "year": 2024,
-      "make": "Mazda",
-      "model": "CX-50",
-      "condition": "used",
-      "price": 37400.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Mazda CX-90 MHEV ",
-      "vin": "JM3KKDHD4R1139144",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/c4cbd09c8b88.html",
-      "year": 2024,
-      "make": "Mazda",
-      "model": "CX-90 MHEV",
-      "condition": "used",
-      "price": 37700.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Volkswagen Atlas ",
-      "vin": "1V2LR2CAXRC557947",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/e8fa78dce1f3.html",
-      "year": 2024,
-      "make": "Volkswagen",
-      "model": "Atlas",
-      "condition": "used",
-      "price": 34900.0,
       "price_currency": "CAD"
     },
     {
@@ -1460,17 +1098,6 @@
       "model": "Golf R",
       "condition": "used",
       "price": 41900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Volkswagen ID.4 ",
-      "vin": "1V29SPE89RC017964",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/fb4c1735673c.html",
-      "year": 2024,
-      "make": "Volkswagen",
-      "model": "ID.4",
-      "condition": "used",
-      "price": 42900.0,
       "price_currency": "CAD"
     },
     {
@@ -1562,17 +1189,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Volkswagen Jetta GLI ",
-      "vin": "3VW2T7BU9SM081778",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/42eff8456781.html",
-      "year": 2025,
-      "make": "Volkswagen",
-      "model": "Jetta GLI",
-      "condition": "used",
-      "price": 32900.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Volkswagen Taos ",
       "vin": "3VV2C7B20SM075306",
       "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/828779447c39.html",
@@ -1606,56 +1222,12 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Honda Passport ",
-      "vin": "5FNYF9H83TB501812",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/ea306984d0df.html",
-      "year": 2026,
-      "make": "Honda",
-      "model": "Passport",
-      "condition": "used",
-      "price": 59400.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Crosstrek ",
-      "vin": "JF2GUHNC4T8201489",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/1c3022039db8.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Crosstrek",
-      "condition": "used",
-      "price": 32250.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Volkswagen Atlas ",
       "vin": "1V2BN2CA2TC538386",
       "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/ef1737f12365.html",
       "year": 2026,
       "make": "Volkswagen",
       "model": "Atlas",
-      "condition": "used",
-      "price": 50900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Volkswagen Atlas Cross Sport ",
-      "vin": "1V2FC2CA8TC204712",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/ea5450bac28a.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Atlas Cross Sport",
-      "condition": "used",
-      "price": 55900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Volkswagen Golf R ",
-      "vin": "WVWHF7CDXTW188696",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/c37eb018f872.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Golf R",
       "condition": "used",
       "price": 50900.0,
       "price_currency": "CAD"
@@ -1692,6 +1264,501 @@
       "condition": "used",
       "price": 33900.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Jetta **IN STOCK** TRENDLINE | PYRITE SILVERin Edmonton",
+      "vin": "3VWCW7BU7TM007482",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/7d7359708e26.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Jetta **IN STOCK** TRENDLINE",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Volkswagen Jetta **IN STOCK** TRENDLINE | PYRITE SILVERin Edmonton",
+      "vin": "3VWCW7BU7TM007482",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/0dcdbe6fdc03.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Jetta **IN STOCK** TRENDLINE",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Volkswagen Jetta **IN STOCK** TRENDLINE | PYRITE SILVER | DEMOin Edmonton",
+      "vin": "3VWCW7BU8TM068355",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/406a689b4710.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Jetta **IN STOCK** TRENDLINE",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Volkswagen Jetta **IN STOCK** TRENDLINE | PYRITE SILVER | DEMOin Edmonton",
+      "vin": "3VWCW7BU8TM068355",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/fafbfcf0735f.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Jetta **IN STOCK** TRENDLINE",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Volkswagen Jetta **IN STOCK** TRENDLINE | PURE WHITEin Edmonton",
+      "vin": "3VWCW7BU3TM067209",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/1b0fb8eafff4.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Jetta **IN STOCK** TRENDLINE",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Volkswagen Jetta **IN STOCK** TRENDLINE | PURE WHITEin Edmonton",
+      "vin": "3VWCW7BU3TM067209",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/c82e7d09246f.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Jetta **IN STOCK** TRENDLINE",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Volkswagen Jetta **IN STOCK** COMFORTLINE | DEEP PEARLin Edmonton",
+      "vin": "3VWEW7BU5TM072131",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/bba6cbbb62f1.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Jetta **IN STOCK** COMFORTLINE",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Volkswagen Jetta **IN STOCK** COMFORTLINE | DEEP PEARLin Edmonton",
+      "vin": "3VWEW7BU5TM072131",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/47a06e6ba98b.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Jetta **IN STOCK** COMFORTLINE",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Volkswagen Jetta **IN STOCK** TRENDLINE | PYRITE SILVERin Edmonton",
+      "vin": "3VWCW7BU1TM078967",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/0c8295fa4588.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Jetta **IN STOCK** TRENDLINE",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Volkswagen Jetta **IN STOCK** TRENDLINE | PYRITE SILVERin Edmonton",
+      "vin": "3VWCW7BU1TM078967",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/11649ec00c95.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Jetta **IN STOCK** TRENDLINE",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Volkswagen Jetta **IN STOCK** COMFORTLINE | ORYX WHITEin Edmonton",
+      "vin": "3VWEW7BUXTM079429",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/458bcbfc4d85.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Jetta **IN STOCK** COMFORTLINE",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Volkswagen Jetta **IN STOCK** COMFORTLINE | ORYX WHITEin Edmonton",
+      "vin": "3VWEW7BUXTM079429",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/28103aa11ff5.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Jetta **IN STOCK** COMFORTLINE",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Volkswagen Jetta **IN STOCK** TRENDLINE | PLATINUM GREYin Edmonton",
+      "vin": "3VWCW7BU2TM080016",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/f0306e5ac48d.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Jetta **IN STOCK** TRENDLINE",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Volkswagen Jetta **IN STOCK** TRENDLINE | PLATINUM GREYin Edmonton",
+      "vin": "3VWCW7BU2TM080016",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/7ea7ef4fa103.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Jetta **IN STOCK** TRENDLINE",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Volkswagen Jetta **IN STOCK** TRENDLINE | PLATINUM GREYin Edmonton",
+      "vin": "3VWCW7BU8TM080053",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/07a8a694e6d0.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Jetta **IN STOCK** TRENDLINE",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Volkswagen Jetta **IN STOCK** TRENDLINE | PLATINUM GREYin Edmonton",
+      "vin": "3VWCW7BU8TM080053",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/b119ef3e162c.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Jetta **IN STOCK** TRENDLINE",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Volkswagen Jetta **IN STOCK** TRENDLINE | PLATINUM GREYin Edmonton",
+      "vin": "3VWCW7BU6TM080293",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/993be1b6e224.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Jetta **IN STOCK** TRENDLINE",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Volkswagen Jetta **IN STOCK** TRENDLINE | PLATINUM GREYin Edmonton",
+      "vin": "3VWCW7BU6TM080293",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/2b0333640d03.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Jetta **IN STOCK** TRENDLINE",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Volkswagen Jetta **IN STOCK** TRENDLINE | PLATINUM GREYin Edmonton",
+      "vin": "3VWCW7BU9TM080353",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/95e33cf4b64f.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Jetta **IN STOCK** TRENDLINE",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Volkswagen Jetta **IN STOCK** TRENDLINE | PLATINUM GREYin Edmonton",
+      "vin": "3VWCW7BU9TM080353",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/4fea9f56d6f0.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Jetta **IN STOCK** TRENDLINE",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Volkswagen Jetta **IN STOCK** TRENDLINE | PLATINUM GREYin Edmonton",
+      "vin": "3VWCW7BU3TM080610",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/c0ebff744d07.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Jetta **IN STOCK** TRENDLINE",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Volkswagen Jetta **IN STOCK** TRENDLINE | PLATINUM GREYin Edmonton",
+      "vin": "3VWCW7BU3TM080610",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/b1508826bb0d.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Jetta **IN STOCK** TRENDLINE",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Volkswagen Jetta **IN STOCK** TRENDLINE | PLATINUM GREYin Edmonton",
+      "vin": "3VWCW7BU8TM080599",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/f06b1a883b56.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Jetta **IN STOCK** TRENDLINE",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Volkswagen Jetta **IN STOCK** TRENDLINE | PLATINUM GREYin Edmonton",
+      "vin": "3VWCW7BU8TM080599",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/5a64105bde76.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Jetta **IN STOCK** TRENDLINE",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Volkswagen Taos **IN STOCK** COMFORTLINE | PURE WHITEin Edmonton",
+      "vin": "3VVUC7B28TM063110",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/7e6b6a8d0e8d.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Taos **IN STOCK** COMFORTLINE",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Volkswagen Taos **IN STOCK** COMFORTLINE | PURE WHITEin Edmonton",
+      "vin": "3VVUC7B28TM063110",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/896cad580cdd.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Taos **IN STOCK** COMFORTLINE",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Volkswagen Tiguan **IN STOCK** TRENDLINE 4MOTION | PURE WHITEin Edmonton",
+      "vin": "3VVBR7RM0TM023374",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/27672380d919.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Tiguan **IN STOCK** TRENDLINE 4MOTION",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Volkswagen Tiguan **IN STOCK** TRENDLINE 4MOTION | PURE WHITEin Edmonton",
+      "vin": "3VVBR7RM0TM023374",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/41aca2cf37ee.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Tiguan **IN STOCK** TRENDLINE 4MOTION",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Volkswagen Tiguan **IN STOCK** TRENDLINE | DEEP PEARL | DEMOin Edmonton",
+      "vin": "3VVBR7RM5TM081433",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/95bcbd46f606.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Tiguan **IN STOCK** TRENDLINE",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Volkswagen Tiguan **IN STOCK** TRENDLINE | DEEP PEARL | DEMOin Edmonton",
+      "vin": "3VVBR7RM5TM081433",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/ce9f32af3308.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Tiguan **IN STOCK** TRENDLINE",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Volkswagen Tiguan **IN STOCK** TRENDLINE | PURE WHITEin Edmonton",
+      "vin": "3VVBR7RM5TM092447",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/62f7dfc14ec9.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Tiguan **IN STOCK** TRENDLINE",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Volkswagen Tiguan **IN STOCK** TRENDLINE | PURE WHITEin Edmonton",
+      "vin": "3VVBR7RM5TM092447",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/70ca757fb9a6.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Tiguan **IN STOCK** TRENDLINE",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Volkswagen Tiguan **IN STOCK** TRENDLINE | DEEP PEARLin Edmonton",
+      "vin": "3VVBR7RM9TM145229",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/a6e50488bfe0.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Tiguan **IN STOCK** TRENDLINE",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Volkswagen Tiguan **IN STOCK** TRENDLINE | DEEP PEARLin Edmonton",
+      "vin": "3VVBR7RM9TM145229",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/db955710ab33.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Tiguan **IN STOCK** TRENDLINE",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Volkswagen Tiguan **IN STOCK** TRENDLINE | DEEP PEARLin Edmonton",
+      "vin": "3VVBR7RM0TM145281",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/e4fbc5c64918.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Tiguan **IN STOCK** TRENDLINE",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Volkswagen Tiguan **IN STOCK** TRENDLINE | DEEP PEARLin Edmonton",
+      "vin": "3VVBR7RM0TM145281",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/f97c187212c4.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Tiguan **IN STOCK** TRENDLINE",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Volkswagen Tiguan **IN STOCK** TRENDLINE | DEEP PEARLin Edmonton",
+      "vin": "3VVBR7RM0TM152165",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/6e1b45dc5439.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Tiguan **IN STOCK** TRENDLINE",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Volkswagen Tiguan **IN STOCK** TRENDLINE | DEEP PEARLin Edmonton",
+      "vin": "3VVBR7RM0TM152165",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/e84b99b2544a.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Tiguan **IN STOCK** TRENDLINE",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Volkswagen GLI **IN STOCK** AUTOBAHN | SPORT PACKAGE | PLATINUM GREYin Edmonton",
+      "vin": "3VW2M7BU6VM011348",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/ab5df86b498f.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "GLI **IN STOCK** AUTOBAHN",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Volkswagen Jetta **IN STOCK** COMFORTLINE | SPORT PKG | PLATINUM GREYin Edmonton",
+      "vin": "3VWSW7BU1VM000414",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/e5580bbd8239.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Jetta **IN STOCK** COMFORTLINE",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Volkswagen Jetta **IN STOCK** COMFORTLINE | SPORT PKG | DEEP PEARLin Edmonton",
+      "vin": "3VWSW7BU5VM001324",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/47a21f601075.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Jetta **IN STOCK** COMFORTLINE",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Volkswagen Jetta **IN STOCK** COMFORTLINE | SPORT PKG | PLATINUM GREYin Edmonton",
+      "vin": "3VWSW7BU2VM001426",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/0f6b34b3a9f5.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Jetta **IN STOCK** COMFORTLINE",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Volkswagen Jetta **IN STOCK** COMFORTLINE | SPORT PKG | PYRITE SILVERin Edmonton",
+      "vin": "3VWSW7BU6VM002417",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/635fa78bec31.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Jetta **IN STOCK** COMFORTLINE",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Volkswagen Jetta **IN STOCK** COMFORTLINE | SPORT PKG | ALPINE GREYin Edmonton",
+      "vin": "3VWSW7BU3VM004948",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/c67d5c335357.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Jetta **IN STOCK** COMFORTLINE",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Volkswagen Jetta **IN STOCK** COMFORTLINE | SPORT PKG | ALPINE GREYin Edmonton",
+      "vin": "3VWSW7BU7VM008873",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/06c1077da1ac.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Jetta **IN STOCK** COMFORTLINE",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Volkswagen Jetta **IN STOCK** COMFORTLINE | SPORT PKG | DEEP BLACK PEARLin Edmonton",
+      "vin": "3VWSW7BU3VM009146",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/ef31d8a5f552.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Jetta **IN STOCK** COMFORTLINE",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Volkswagen Jetta **IN STOCK** COMFORTLINE | SPORT PKG | ORYX WHITEin Edmonton",
+      "vin": "3VWSW7BU6VM007441",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/cd5a87cfae22.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Jetta **IN STOCK** COMFORTLINE",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Volkswagen Jetta **IN STOCK** COMFORTLINE | SPORT PKG | ALPINE GREYin Edmonton",
+      "vin": "3VWSW7BU3VM015707",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/d5738d9e8f7f.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Jetta **IN STOCK** COMFORTLINE",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Volkswagen Jetta **IN STOCK** COMFORTLINE | SPORT PKG | ALPINE GREYin Edmonton",
+      "vin": "3VWSW7BU3VM018221",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/bfd0f31b41fd.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Jetta **IN STOCK** COMFORTLINE",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Volkswagen Jetta COMFORTLINE | SPORT PKG | DEEP PEARLin Edmonton",
+      "vin": "3VWSW7BU5VM024019",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/9264a3f77a17.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Volkswagen Taos **IN STOCK** COMFORTLINE | PYRITE SILVERin Edmonton",
+      "vin": "3VVUD7B2XVM012658",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/9b9634c26da1.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Taos **IN STOCK** COMFORTLINE",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Volkswagen Taos COMFORTLINE | PLATINUM GREYin Edmonton",
+      "vin": "3VVUD7B27VM023178",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/5732d2513e02.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Volkswagen Taos COMFORTLINE | PLATINUM GREYin Edmonton",
+      "vin": "3VVUD7B24VM030282",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/0f0d3cdfa36d.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Volkswagen Taos COMFORTLINE | PYRITE SILVERin Edmonton",
+      "vin": "3VVUD7B27VM029787",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/02db738289a0.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Volkswagen Taos COMFORTLINE | DEEP PEARLin Edmonton",
+      "vin": "3VVUD7B29VM030732",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/f173757bed70.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "new"
     }
   ]
 }
