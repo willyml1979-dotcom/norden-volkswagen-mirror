@@ -1,6 +1,6 @@
 {
   "dealership": "Norden Volkswagen",
-  "generated_at": "2026-11-17T22:07:55",
+  "generated_at": "2026-11-17T22:11:44",
   "vehicle_count": 169,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -1558,21 +1558,21 @@
       "condition": "new"
     },
     {
-      "name": "New 2027 Volkswagen Taos COMFORTLINE | PYRITE SILVERin Edmonton",
+      "name": "New 2027 Volkswagen Taos **IN STOCK** COMFORTLINE | PYRITE SILVERin Edmonton",
       "vin": "3VVUD7B27VM029787",
       "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/02db738289a0.html",
       "year": 2027,
       "make": "Volkswagen",
-      "model": "Taos",
+      "model": "Taos **IN STOCK** COMFORTLINE",
       "condition": "new"
     },
     {
-      "name": "New 2027 Volkswagen Taos COMFORTLINE | DEEP PEARLin Edmonton",
+      "name": "New 2027 Volkswagen Taos **IN STOCK** COMFORTLINE | DEEP PEARLin Edmonton",
       "vin": "3VVUD7B29VM030732",
       "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/f173757bed70.html",
       "year": 2027,
       "make": "Volkswagen",
-      "model": "Taos",
+      "model": "Taos **IN STOCK** COMFORTLINE",
       "condition": "new"
     },
     {
