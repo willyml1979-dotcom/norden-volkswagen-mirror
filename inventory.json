@@ -1,6 +1,6 @@
 {
   "dealership": "Norden Volkswagen",
-  "generated_at": "2026-11-18T07:45:01",
+  "generated_at": "2026-11-18T16:15:00",
   "vehicle_count": 169,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -78,6 +78,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Dodge Grand Caravan 2018 for salein Edmonton",
+      "vin": "2C4RDGBG0JR349410",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/301e4bb4cf78.html",
+      "condition": "used",
+      "price": 15350.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Ford Escape 2018 for salein Edmonton",
       "vin": "1FMCU9GD4JUB31923",
       "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/2878738807ee.html",
@@ -91,6 +99,14 @@
       "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/8a97a6e7f1ff.html",
       "condition": "used",
       "price": 38900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Kona 2018 for salein Edmonton",
+      "vin": "KM8K1CAA5JU099256",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/dce41d2818fe.html",
+      "condition": "used",
+      "price": 13750.0,
       "price_currency": "CAD"
     },
     {
@@ -118,6 +134,22 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Subaru WRX 2018 for salein Edmonton",
+      "vin": "JF1VA1D62J9800177",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/3c600cd159a5.html",
+      "condition": "used",
+      "price": 15900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Toyota Corolla IM 2018 for salein Edmonton",
+      "vin": "JTNKARJE3JJ575320",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/08c45c1c7c3c.html",
+      "condition": "used",
+      "price": 16900.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Toyota RAV4 2018 for salein Edmonton",
       "vin": "2T3BFREV8JW701477",
       "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/2b136fbf3e84.html",
@@ -126,11 +158,43 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Chevrolet Silverado 1500 2019 for salein Edmonton",
+      "vin": "1GCUYHEL2KZ283480",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/b0f13f094883.html",
+      "condition": "used",
+      "price": 31900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Subaru WRX 2019 for salein Edmonton",
+      "vin": "JF1VA2Y62K9808765",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/be948a9298fc.html",
+      "condition": "used",
+      "price": 26400.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Atlas 2019 for salein Edmonton",
+      "vin": "1V2LR2CA9KC529417",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/e63dd74abbf7.html",
+      "condition": "used",
+      "price": 24150.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Volkswagen Golf 2019 for salein Edmonton",
       "vin": "3VWG57AU9KM034445",
       "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/f7ed21eb904f.html",
       "condition": "used",
       "price": 17900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Jetta 2019 for salein Edmonton",
+      "vin": "3VWE57BUXKM030085",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/329b5741a114.html",
+      "condition": "used",
+      "price": 12400.0,
       "price_currency": "CAD"
     },
     {
@@ -147,6 +211,14 @@
       "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/76d4626584c4.html",
       "condition": "used",
       "price": 26900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "BMW 5 Series 2022 for salein Edmonton",
+      "vin": "WBA73BJ07NCK26622",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/22b3e88a7818.html",
+      "condition": "used",
+      "price": 45900.0,
       "price_currency": "CAD"
     },
     {
@@ -555,18 +627,7 @@
       "make": "Dodge",
       "model": "Grand Caravan",
       "condition": "used",
-      "price": 16250.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Dodge Grand Caravan ",
-      "vin": "2C4RDGBG0JR349410",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/301e4bb4cf78.html",
-      "year": 2018,
-      "make": "Dodge",
-      "model": "Grand Caravan",
-      "condition": "used",
-      "price": 16250.0,
+      "price": 15350.0,
       "price_currency": "CAD"
     },
     {
@@ -610,18 +671,7 @@
       "make": "Hyundai",
       "model": "Kona",
       "condition": "used",
-      "price": 12900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Hyundai Kona ",
-      "vin": "KM8K1CAA5JU099256",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/dce41d2818fe.html",
-      "year": 2018,
-      "make": "Hyundai",
-      "model": "Kona",
-      "condition": "used",
-      "price": 12900.0,
+      "price": 13750.0,
       "price_currency": "CAD"
     },
     {
@@ -654,29 +704,7 @@
       "make": "Subaru",
       "model": "WRX",
       "condition": "used",
-      "price": 16900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Subaru WRX ",
-      "vin": "JF1VA1D62J9800177",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/3c600cd159a5.html",
-      "year": 2018,
-      "make": "Subaru",
-      "model": "WRX",
-      "condition": "used",
-      "price": 16900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Toyota Corolla iM ",
-      "vin": "JTNKARJE3JJ575320",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/08c45c1c7c3c.html",
-      "year": 2018,
-      "make": "Toyota",
-      "model": "Corolla",
-      "condition": "used",
-      "price": 17250.0,
+      "price": 15900.0,
       "price_currency": "CAD"
     },
     {
@@ -687,18 +715,7 @@
       "make": "Toyota",
       "model": "Corolla",
       "condition": "used",
-      "price": 17250.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Chevrolet Silverado 1500 ",
-      "vin": "1GCUYHEL2KZ283480",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/b0f13f094883.html",
-      "year": 2019,
-      "make": "Chevrolet",
-      "model": "Silverado 1500",
-      "condition": "used",
-      "price": 32400.0,
+      "price": 16900.0,
       "price_currency": "CAD"
     },
     {
@@ -709,28 +726,6 @@
       "make": "Jeep",
       "model": "Wrangler",
       "condition": "used"
-    },
-    {
-      "name": "2019 Subaru WRX ",
-      "vin": "JF1VA2Y62K9808765",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/be948a9298fc.html",
-      "year": 2019,
-      "make": "Subaru",
-      "model": "WRX",
-      "condition": "used",
-      "price": 26900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Volkswagen Atlas ",
-      "vin": "1V2LR2CA9KC529417",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/e63dd74abbf7.html",
-      "year": 2019,
-      "make": "Volkswagen",
-      "model": "Atlas",
-      "condition": "used",
-      "price": 24400.0,
-      "price_currency": "CAD"
     },
     {
       "name": "2019 Volkswagen Golf **VW CERTIFIED** COMFORTLINE | +WINTEER RIMS/ITIRESin Edmonton",
@@ -762,18 +757,7 @@
       "make": "Volkswagen",
       "model": "Jetta **VW CERTIFIED** HIGHLINEin Edmonton",
       "condition": "used",
-      "price": 12900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Volkswagen Jetta ",
-      "vin": "3VWE57BUXKM030085",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/329b5741a114.html",
-      "year": 2019,
-      "make": "Volkswagen",
-      "model": "Jetta",
-      "condition": "used",
-      "price": 12900.0,
+      "price": 12400.0,
       "price_currency": "CAD"
     },
     {
@@ -991,7 +975,7 @@
       "make": "Volkswagen",
       "model": "Tiguan",
       "condition": "used",
-      "price": 19750.0,
+      "price": 19400.0,
       "price_currency": "CAD"
     },
     {
@@ -1003,17 +987,6 @@
       "model": "Tiguan",
       "condition": "used",
       "price": 18700.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 BMW 5 Series ",
-      "vin": "WBA73BJ07NCK26622",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/22b3e88a7818.html",
-      "year": 2022,
-      "make": "BMW",
-      "model": "5 Series",
-      "condition": "used",
-      "price": 46900.0,
       "price_currency": "CAD"
     },
     {
