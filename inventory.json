@@ -1,6 +1,6 @@
 {
   "dealership": "Norden Volkswagen",
-  "generated_at": "2026-11-17T22:11:44",
+  "generated_at": "2026-11-18T07:40:54",
   "vehicle_count": 169,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -22,6 +22,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Lexus RX 350 2015 for salein Edmonton",
+      "vin": "2T2BK1BA1FC260738",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/ec1124c53414.html",
+      "condition": "used",
+      "price": 21750.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Volkswagen Golf SportWagen 2015 for salein Edmonton",
       "vin": "3VWC17AU6FM509677",
       "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/6a8e0d6ecaf5.html",
@@ -38,11 +46,35 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Nissan Qashqai 2017 for salein Edmonton",
+      "vin": "JN1BJ1CR2HW123378",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/e76b3d2d936e.html",
+      "condition": "used",
+      "price": 14900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Tiguan 2017 for salein Edmonton",
+      "vin": "WVGNV7AX2HW503075",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/3e0aefe46c05.html",
+      "condition": "used",
+      "price": 15900.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Audi RS 5 2018 for salein Edmonton",
       "vin": "WUARWAF52JA904929",
       "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/62a9e81dac9a.html",
       "condition": "used",
       "price": 49800.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Chevrolet Equinox 2018 for salein Edmonton",
+      "vin": "2GNAXVEV3J6279008",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/99524249da17.html",
+      "condition": "used",
+      "price": 17750.0,
       "price_currency": "CAD"
     },
     {
@@ -190,6 +222,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Chevrolet Tahoe 2024 for salein Edmonton",
+      "vin": "1GNSKNKT5RR157840",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/007c50971e3e.html",
+      "condition": "used",
+      "price": 72400.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Chevrolet Trax 2024 for salein Edmonton",
       "vin": "KL77LJE24RC010402",
       "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/91ed41787433.html",
@@ -278,6 +318,22 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Volkswagen Taos 2024 for salein Edmonton",
+      "vin": "3VVUX7B21RM119403",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/bef546e9e0b5.html",
+      "condition": "used",
+      "price": 27500.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Tiguan 2024 for salein Edmonton",
+      "vin": "3VV8B7AX3RM125474",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/d0021eaf4f20.html",
+      "condition": "used",
+      "price": 33250.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Honda Civic Hybrid 2025 for salein Edmonton",
       "vin": "2HGFE4F83SH004334",
       "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/eb1733cd191e.html",
@@ -334,11 +390,51 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Volkswagen Tiguan 2025 for salein Edmonton",
+      "vin": "3VVLR7RM8SM005627",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/a2205a954883.html",
+      "condition": "used",
+      "price": 45400.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Audi Q7 2026 for salein Edmonton",
       "vin": "WA1ACBF73TD001680",
       "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/8c72dda609a6.html",
       "condition": "used",
       "price": 58500.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Atlas 2026 for salein Edmonton",
+      "vin": "1V2BN2CA2TC538386",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/ef1737f12365.html",
+      "condition": "used",
+      "price": 49850.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Jetta GLI 2026 for salein Edmonton",
+      "vin": "3VW1M7BU0TM019809",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/f168e395b136.html",
+      "condition": "used",
+      "price": 31400.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Taos 2026 for salein Edmonton",
+      "vin": "3VVUC7B27TM026128",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/c74e573622e4.html",
+      "condition": "used",
+      "price": 30400.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Tiguan 2026 for salein Edmonton",
+      "vin": "3VVBR7RMXTM054518",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/8d9edeb78f53.html",
+      "condition": "used",
+      "price": 32900.0,
       "price_currency": "CAD"
     },
     {
@@ -382,18 +478,7 @@
       "make": "Lexus",
       "model": "RX",
       "condition": "used",
-      "price": 22400.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2015 Lexus RX 350 ",
-      "vin": "2T2BK1BA1FC260738",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/ec1124c53414.html",
-      "year": 2015,
-      "make": "Lexus",
-      "model": "RX",
-      "condition": "used",
-      "price": 22400.0,
+      "price": 21750.0,
       "price_currency": "CAD"
     },
     {
@@ -437,18 +522,7 @@
       "make": "Nissan",
       "model": "Qashqai",
       "condition": "used",
-      "price": 15900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 Nissan Qashqai ",
-      "vin": "JN1BJ1CR2HW123378",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/e76b3d2d936e.html",
-      "year": 2017,
-      "make": "Nissan",
-      "model": "Qashqai",
-      "condition": "used",
-      "price": 15900.0,
+      "price": 14900.0,
       "price_currency": "CAD"
     },
     {
@@ -463,17 +537,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2017 Volkswagen Tiguan ",
-      "vin": "WVGNV7AX7HK017899",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/3e0aefe46c05.html",
-      "year": 2017,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "used",
-      "price": 11900.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2018 Chevrolet Equinox PREMIER w/1LZ |AWDin Edmonton",
       "vin": "2GNAXVEV3J6279008",
       "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/382f130aa911.html",
@@ -481,18 +544,7 @@
       "make": "Chevrolet",
       "model": "Equinox",
       "condition": "used",
-      "price": 18700.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Chevrolet Equinox ",
-      "vin": "2GNAXVEV3J6279008",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/99524249da17.html",
-      "year": 2018,
-      "make": "Chevrolet",
-      "model": "Equinox",
-      "condition": "used",
-      "price": 18700.0,
+      "price": 17750.0,
       "price_currency": "CAD"
     },
     {
@@ -722,17 +774,6 @@
       "model": "Jetta",
       "condition": "used",
       "price": 12900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 Honda Civic Sedan LX | COUPEin Edmonton",
-      "vin": "2HGFC2F50LH030326",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/c853c97de0a1.html",
-      "year": 2020,
-      "make": "Honda",
-      "model": "Civic",
-      "condition": "used",
-      "price": 22900.0,
       "price_currency": "CAD"
     },
     {
@@ -1108,14 +1149,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Chevrolet Tahoe ",
-      "vin": "1GNSKNKT5RR157840",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/007c50971e3e.html",
-      "year": 2024,
-      "make": "Chevrolet",
-      "model": "Tahoe",
+      "name": "2023 Volkswagen Taos **VW CERTIFIED** COMFORTLINEin Edmonton",
+      "vin": "3VV7X7B22PM306465",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/f38c14c59042.html",
+      "year": 2023,
+      "make": "Volkswagen",
+      "model": "Taos **VW CERTIFIED** COMFORTLINEin Edmonton",
       "condition": "used",
-      "price": 73900.0,
+      "price": 23500.0,
       "price_currency": "CAD"
     },
     {
@@ -1137,83 +1178,6 @@
       "make": "Volkswagen",
       "model": "Golf GTI",
       "condition": "used"
-    },
-    {
-      "name": "2024 Volkswagen Taos ",
-      "vin": "3VVUX7B21RM119403",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/bef546e9e0b5.html",
-      "year": 2024,
-      "make": "Volkswagen",
-      "model": "Taos",
-      "condition": "used",
-      "price": 25900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Volkswagen Tiguan ",
-      "vin": "3VV8B7AX3RM125474",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/d0021eaf4f20.html",
-      "year": 2024,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "used",
-      "price": 33900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Volkswagen Tiguan ",
-      "vin": "3VVLR7RM3SM005731",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/a2205a954883.html",
-      "year": 2025,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "used",
-      "price": 45900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Volkswagen Atlas ",
-      "vin": "1V2BN2CA2TC538386",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/ef1737f12365.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Atlas",
-      "condition": "used",
-      "price": 50900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Volkswagen Jetta GLI ",
-      "vin": "3VW1M7BU0TM019809",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/f168e395b136.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Jetta GLI",
-      "condition": "used",
-      "price": 33500.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Volkswagen Taos ",
-      "vin": "3VVUC7B27TM026128",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/c74e573622e4.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Taos",
-      "condition": "used",
-      "price": 30900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Volkswagen Tiguan ",
-      "vin": "3VVBR7RMXTM054518",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/8d9edeb78f53.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "used",
-      "price": 33900.0,
-      "price_currency": "CAD"
     },
     {
       "name": "New 2026 Volkswagen Jetta **IN STOCK** TRENDLINE | PYRITE SILVERin Edmonton",
