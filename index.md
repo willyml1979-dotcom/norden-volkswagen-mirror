@@ -1,6 +1,6 @@
 # Norden Volkswagen
 
-Volkswagen dealership in AB. AI-readable inventory mirror, about 170 vehicles.
+Volkswagen dealership in AB. AI-readable inventory mirror, about 169 vehicles.
 
 - Official website: https://www.nordenvw.ca
 - Used vehicles: https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/

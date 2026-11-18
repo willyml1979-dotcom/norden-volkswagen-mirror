@@ -1,7 +1,7 @@
 {
   "dealership": "Norden Volkswagen",
-  "generated_at": "2026-11-17T03:51:17",
-  "vehicle_count": 170,
+  "generated_at": "2026-11-17T22:07:55",
+  "vehicle_count": 169,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -22,9 +22,9 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Volkswagen Golf 2015 for salein Edmonton",
+      "name": "Volkswagen Golf SportWagen 2015 for salein Edmonton",
       "vin": "3VWC17AU6FM509677",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/394651d17cfa.html",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/6a8e0d6ecaf5.html",
       "condition": "used",
       "price": 15900.0,
       "price_currency": "CAD"
@@ -43,6 +43,14 @@
       "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/62a9e81dac9a.html",
       "condition": "used",
       "price": 49800.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Escape 2018 for salein Edmonton",
+      "vin": "1FMCU9GD4JUB31923",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/2878738807ee.html",
+      "condition": "used",
+      "price": 14900.0,
       "price_currency": "CAD"
     },
     {
@@ -86,6 +94,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Volkswagen Golf 2019 for salein Edmonton",
+      "vin": "3VWG57AU9KM034445",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/f7ed21eb904f.html",
+      "condition": "used",
+      "price": 17900.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Volvo S60 2019 for salein Edmonton",
       "vin": "7JRA22TL8KG003076",
       "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/15272762bb83.html",
@@ -115,6 +131,14 @@
       "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/d3655986433b.html",
       "condition": "used",
       "price": 38900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Chevrolet Equinox 2023 for salein Edmonton",
+      "vin": "3GNAXKEG8PS215170",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/ec27f88fdeae.html",
+      "condition": "used",
+      "price": 21900.0,
       "price_currency": "CAD"
     },
     {
@@ -222,6 +246,46 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Volkswagen Atlas Cross Sport 2024 for salein Edmonton",
+      "vin": "1V2BE2CA4RC217734",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/c6836a58a887.html",
+      "condition": "used",
+      "price": 38900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Golf R 2024 for salein Edmonton",
+      "vin": "WVWCB7CD1RW170683",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/f011c5b36007.html",
+      "condition": "used",
+      "price": 40900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Jetta 2024 for salein Edmonton",
+      "vin": "3VWEM7BU5RM084780",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/28782ca67d79.html",
+      "condition": "used",
+      "price": 25900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Jetta GLI 2024 for salein Edmonton",
+      "vin": "3VW9T7BU6RM050111",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/016dd6fa9ee9.html",
+      "condition": "used",
+      "price": 28900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Honda Civic Hybrid 2025 for salein Edmonton",
+      "vin": "2HGFE4F83SH004334",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/eb1733cd191e.html",
+      "condition": "used",
+      "price": 31900.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "RAM 3500 2025 for salein Edmonton",
       "vin": "3C63R3CL1SG565924",
       "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/5486fd907b2c.html",
@@ -230,11 +294,51 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Volkswagen Atlas 2025 for salein Edmonton",
+      "vin": "1V2CR2CA9SC513010",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/72d5a225af90.html",
+      "condition": "used",
+      "price": 46700.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Atlas Cross Sport 2025 for salein Edmonton",
+      "vin": "1V2LE2CA6SC222640",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/d915b410c1fa.html",
+      "condition": "used",
+      "price": 37350.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Golf R 2025 for salein Edmonton",
+      "vin": "WVWKB7CD9SW227326",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/d96ea30121a1.html",
+      "condition": "used",
+      "price": 48900.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Volkswagen ID. Buzz 2025 for salein Edmonton",
       "vin": "WVG6YVEB1SH045359",
       "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/1b339b07f13c.html",
       "condition": "used",
       "price": 68900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Taos 2025 for salein Edmonton",
+      "vin": "3VVUC7B22SM042333",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/828779447c39.html",
+      "condition": "used",
+      "price": 28900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Audi Q7 2026 for salein Edmonton",
+      "vin": "WA1ACBF73TD001680",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/8c72dda609a6.html",
+      "condition": "used",
+      "price": 58500.0,
       "price_currency": "CAD"
     },
     {
@@ -257,28 +361,6 @@
       "model": "Titan",
       "condition": "used",
       "price": 14800.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2014 Mazda CX-5 GT | AWD | FULLY LOADED!in Edmonton",
-      "vin": "JM3KE4DY1E0306382",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/b9f9b5c47a57.html",
-      "year": 2014,
-      "make": "Mazda",
-      "model": "CX-5",
-      "condition": "used",
-      "price": 15900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2014 Mazda CX-5 ",
-      "vin": "JM3KE4DY1E0306382",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/5f0a23c39242.html",
-      "year": 2014,
-      "make": "Mazda",
-      "model": "CX-5",
-      "condition": "used",
-      "price": 15900.0,
       "price_currency": "CAD"
     },
     {
@@ -315,12 +397,12 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2015 Volkswagen Golf **VW CERTIFIED** COMFORTLINEin Edmonton",
+      "name": "2015 Volkswagen Golf SportWagen **VW CERTIFIED** COMFORTLINEin Edmonton",
       "vin": "3VWC17AU6FM509677",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/c4189678303a.html",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/8bdf4f78a56b.html",
       "year": 2015,
       "make": "Volkswagen",
-      "model": "Golf **VW CERTIFIED** COMFORTLINEin Edmonton",
+      "model": "Golf SportWagen **VW CERTIFIED** COMFORTLINEin Edmonton",
       "condition": "used",
       "price": 15900.0,
       "price_currency": "CAD"
@@ -444,17 +526,6 @@
       "model": "Escape",
       "condition": "used",
       "price": 14900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Ford Escape ",
-      "vin": "1FMCU9GD4JUB31923",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/2878738807ee.html",
-      "year": 2018,
-      "make": "Ford",
-      "model": "Escape",
-      "condition": "used",
-      "price": 15900.0,
       "price_currency": "CAD"
     },
     {
@@ -617,18 +688,7 @@
       "make": "Volkswagen",
       "model": "Golf **VW CERTIFIED** COMFORTLINE",
       "condition": "used",
-      "price": 18900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Volkswagen Golf ",
-      "vin": "3VWG57AU9KM034445",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/f7ed21eb904f.html",
-      "year": 2019,
-      "make": "Volkswagen",
-      "model": "Golf",
-      "condition": "used",
-      "price": 18900.0,
+      "price": 17900.0,
       "price_currency": "CAD"
     },
     {
@@ -967,7 +1027,7 @@
       "make": "Volkswagen",
       "model": "Taos **VW CERTIFIED** TRENDLINEin Edmonton",
       "condition": "used",
-      "price": 20500.0,
+      "price": 20300.0,
       "price_currency": "CAD"
     },
     {
@@ -1026,17 +1086,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Chevrolet Equinox ",
-      "vin": "3GNAXKEG8PS215170",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/ec27f88fdeae.html",
-      "year": 2023,
-      "make": "Chevrolet",
-      "model": "Equinox",
-      "condition": "used",
-      "price": 23900.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Hyundai Elantra PREFERREDin Edmonton",
       "vin": "KMHLM4AG4PU413994",
       "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/d1fa0ab3fec1.html",
@@ -1070,14 +1119,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Volkswagen Atlas Cross Sport ",
-      "vin": "1V2BE2CA4RC217734",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/c6836a58a887.html",
+      "name": "2024 Chevrolet Trax 2RSin Edmonton",
+      "vin": "KL77LJE24RC010402",
+      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/6949465b3eda.html",
       "year": 2024,
-      "make": "Volkswagen",
-      "model": "Atlas Cross Sport",
+      "make": "Chevrolet",
+      "model": "Trax",
       "condition": "used",
-      "price": 39700.0,
+      "price": 23400.0,
       "price_currency": "CAD"
     },
     {
@@ -1088,39 +1137,6 @@
       "make": "Volkswagen",
       "model": "Golf GTI",
       "condition": "used"
-    },
-    {
-      "name": "2024 Volkswagen Golf R ",
-      "vin": "WVWCB7CD1RW170683",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/f011c5b36007.html",
-      "year": 2024,
-      "make": "Volkswagen",
-      "model": "Golf R",
-      "condition": "used",
-      "price": 41900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Volkswagen Jetta ",
-      "vin": "3VWGM7BU1RM100630",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/28782ca67d79.html",
-      "year": 2024,
-      "make": "Volkswagen",
-      "model": "Jetta",
-      "condition": "used",
-      "price": 28400.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Volkswagen Jetta GLI ",
-      "vin": "3VW9T7BU6RM050111",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/016dd6fa9ee9.html",
-      "year": 2024,
-      "make": "Volkswagen",
-      "model": "Jetta GLI",
-      "condition": "used",
-      "price": 29400.0,
-      "price_currency": "CAD"
     },
     {
       "name": "2024 Volkswagen Taos ",
@@ -1145,61 +1161,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Honda Civic Hybrid ",
-      "vin": "2HGFE4F83SH004334",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/eb1733cd191e.html",
-      "year": 2025,
-      "make": "Honda",
-      "model": "Civic Hybrid",
-      "condition": "used",
-      "price": 33900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Volkswagen Atlas ",
-      "vin": "1V2LR2CA7SC556437",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/72d5a225af90.html",
-      "year": 2025,
-      "make": "Volkswagen",
-      "model": "Atlas",
-      "condition": "used",
-      "price": 45800.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Volkswagen Atlas Cross Sport ",
-      "vin": "1V2LE2CA1SC221461",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/d915b410c1fa.html",
-      "year": 2025,
-      "make": "Volkswagen",
-      "model": "Atlas Cross Sport",
-      "condition": "used",
-      "price": 38400.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Volkswagen Golf R ",
-      "vin": "WVWKB7CD9SW227326",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/d96ea30121a1.html",
-      "year": 2025,
-      "make": "Volkswagen",
-      "model": "Golf R",
-      "condition": "used",
-      "price": 49400.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Volkswagen Taos ",
-      "vin": "3VV2C7B20SM075306",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/828779447c39.html",
-      "year": 2025,
-      "make": "Volkswagen",
-      "model": "Taos",
-      "condition": "used",
-      "price": 32700.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Volkswagen Tiguan ",
       "vin": "3VVLR7RM3SM005731",
       "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/a2205a954883.html",
@@ -1208,17 +1169,6 @@
       "model": "Tiguan",
       "condition": "used",
       "price": 45900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Audi Q7 ",
-      "vin": "WA1ACBF73TD001680",
-      "url": "https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/8c72dda609a6.html",
-      "year": 2026,
-      "make": "Audi",
-      "model": "Q7",
-      "condition": "used",
-      "price": 59200.0,
       "price_currency": "CAD"
     },
     {

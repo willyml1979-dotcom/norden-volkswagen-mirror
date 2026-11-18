@@ -7,7 +7,7 @@ Norden Volkswagen is a Volkswagen dealership in AB. This site is an AI-readable 
 - You need the link to a specific vehicle page or to the dealership's official website.
 
 ## What is here
-- Vehicle pages: https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/ and https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/ (about 170 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
+- Vehicle pages: https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/used/ and https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/new/ (about 169 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
 - Index of all vehicles: https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/inventory.json (VIN, year, make, model, price and link).
 - Sitemap: https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/sitemap.xml
 - Summary: https://willyml1979-dotcom.github.io/norden-volkswagen-mirror/llms.txt
